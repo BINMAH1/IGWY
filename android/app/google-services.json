@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1060264402941",
+    "project_id": "igwy2-ubmoia",
+    "storage_bucket": "igwy2-ubmoia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060264402941:android:03dc3ddacfe894c29f0394",
+        "android_client_info": {
+          "package_name": "com.flutterflow.homeU"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeMZg5yW0ZiRrIBUeQ0yaBhrxYvHOeZuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
